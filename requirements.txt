@@ -1,0 +1,5 @@
+rlcard[torch]
+tqdm
+ipython
+ipykernel
+gymnasium
